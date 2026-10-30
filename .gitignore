@@ -13,3 +13,22 @@ DerivedDataCache/
 
 # Visual Studio
 UpgradeLog.htm
+
+# Generated build files and local caches (keep Source, Config, Content and Build)
+*.sdf
+*.opensdf
+*.VC.VC.opendb
+*.VC.db-shm
+*.VC.db-wal
+ipch/
+.vs-cache/
+.cache/
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+# Local backup directory already present on the development machine
+/Backup/
